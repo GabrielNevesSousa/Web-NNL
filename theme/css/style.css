@@ -1,9 +1,4 @@
-/*
- * Author 	: HIMANSHU GUPTA 
- * Email 		: himanshucse2012@gmail.com
- * Website	:	http://www.indioweb.in/portfolio
- */
- 
+
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
  
 /*
@@ -100,6 +95,7 @@ header .navbar-nav .dropdown-menu:after {
 	border-color: rgba(240, 253, 255, 0);
 	border-bottom-color: rgb(7, 7, 7);
 	border-width: 7px;
+	
 }
 
 header .navbar-nav .dropdown-menu:before {
@@ -123,9 +119,29 @@ header .navbar-brand img {
  */
  
 .banner {
-	background: #fcfafa;
-	padding-top: 120px;
-	padding-bottom: 120px;
+	background: transparent;
+	background-image: url('/theme/img/NLL-EMPRESAAAA.gif');
+	background-repeat: no-repeat;
+	padding-top: 250px;
+	padding-bottom: 570px;
+	text-align: center;
+}
+
+.banner6 {
+	background: transparent;
+	background-image: url('/theme/img/oficina-35.png');
+	background-repeat: no-repeat;
+	padding-top: 250px;
+	padding-bottom: 570px;
+	text-align: center;
+}
+
+.banner7 {
+	background: transparent;
+	background-image: url('/theme/img/oficina-42.png');
+	background-repeat: no-repeat;
+	padding-top: 250px;
+	padding-bottom: 570px;
 	text-align: center;
 }
 
@@ -385,6 +401,8 @@ header .navbar-brand img {
  */
 
 footer {
+	
+	
 	margin-top: 80px;
 	padding: 50px 0;
 	background: #000000;
