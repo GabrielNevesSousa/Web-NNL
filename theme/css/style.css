@@ -1,6 +1,6 @@
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
- 
+
 /*
  * Basic CSS starts 
  */
@@ -13,6 +13,7 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6{
+	
 	font-family: 'Open Sans', Sans Serif;
 	font-weight: 600;
 }
@@ -378,7 +379,7 @@ header .navbar-brand img {
 	text-align: left;
 }
 .login-area form label ,
-.register-area form label { color: rgb(3, 3, 3); }
+.register-area form label { color: rgb(255, 254, 254); }
 .login-area form .form-control,
 .register-area form .form-control {
 	box-shadow: none !important;
