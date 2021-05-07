@@ -120,7 +120,7 @@ header .navbar-brand img {
  */
  
 .banner {
-	background-image: url('https://imgur.com/BaXUPOF');
+	background-image: url("https://imgur.com/BaXUPOF");
 	background-repeat: no-repeat;
 	padding-top: 250px;
 	padding-bottom: 570px;
@@ -129,7 +129,7 @@ header .navbar-brand img {
 
 .banner6 {
 	background: transparent;
-	background-image: url('https://imgur.com/F5xuwcr');
+	background-image: url("https://imgur.com/F5xuwcr");
 	background-repeat: no-repeat;
 	padding-top: 250px;
 	padding-bottom: 570px;
@@ -138,7 +138,7 @@ header .navbar-brand img {
 
 .banner7 {
 	background: transparent;
-	background-image: url('https://imgur.com/uS1K8pL');
+	background-image: url("https://imgur.com/uS1K8pL");
 	background-repeat: no-repeat;
 	padding-top: 250px;
 	padding-bottom: 570px;
