@@ -1,9 +1,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
 
-/*
- * Basic CSS starts 
- */
+
 
 body{
 	font-family: 'Open Sans', Sans Serif;
@@ -17,7 +15,9 @@ h1,h2,h3,h4,h5,h6{
 	font-family: 'Open Sans', Sans Serif;
 	font-weight: 600;
 }
-
+h2{
+	text-align: center;
+}
 p{
 	margin:0;
 	padding:0;
@@ -36,10 +36,6 @@ a:hover{
 
 a:hover,a:active,a:focus {
 	outline: 0;
-}
-
-hr{
-
 }
 
 :focus {
@@ -480,9 +476,7 @@ footer .copy-right {
 	.default-heading {text-align: center;}
 }
 
-/*
- * Desktop 
- */
+
 @media (max-width: 991px){
 
 }
